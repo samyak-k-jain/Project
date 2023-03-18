@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzeldisplay=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  font-family: "Cinzel", serif;
+  font-family: "Roboto", sans-serif;
+  position: relative;
+  text-align: center;
+  overflow: hidden;
+}
+.mainintro {
+  text-align: center;
+}
+.Home-div {
+  font-family: "Roboto", sans-serif;
+  color: rgba(0, 0, 0, 0.73);
+  height: 30rem;
+  margin: 2rem;
+}
+.home-heading {
+  margin-top: 12px;
+  letter-spacing: 0.8px;
+  font-weight: 600;
+}
+.home-heading-1 {
+  margin-top: 12px;
+  letter-spacing: 0.8px;
+}
+.sub-heading {
+  font-weight: 100 !important;
+  letter-spacing: 0.8px;
+}
+.sideintro {
+  text-align: right;
+}
